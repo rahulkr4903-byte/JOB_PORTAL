@@ -1,1 +1,1 @@
-Built a basic job portal website using html and css
+Built a basic job portal website using html and css.This job portal helped me learned and understand grid view and flex properties 
